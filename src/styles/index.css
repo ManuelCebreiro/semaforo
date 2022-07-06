@@ -1,12 +1,61 @@
+#semTop{
+    width: 45px;
+    height: 449px;
+    background-color: black;
+    margin: auto;
+}
 
-/* 
 
-    You can write your own styles here...
-    
-    
-    ...Or you can use the import command to include 
-    other sylesheets into your bunde as well, e.j:
-    
-    import 'relative/path/to/stylesheet.scss';
+#semConter{
+    width: 200px;
+    height: 460px;
+    border-radius: 10%;
+    background-color: black;
+    margin-top: 5%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 0px;
+    padding-top: 3%;
+    padding-bottom: 3%;
 
-*/
+}
+
+
+
+
+
+.ligth{
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+    margin-top: 0px;
+    margin-left: auto;
+    margin-bottom: auto;
+    margin-right: auto;
+    opacity: 20%;
+}
+
+.ligthactive{
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+    opacity: 100%;
+    box-shadow: 0px 0px 30px blue;
+    margin: auto;
+    margin-top: 0px;
+    margin-bottom: 2%;
+}
+
+.red{
+    background-color: red;
+ }
+.yellow{
+    background-color: yellow;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    
+ }
+.green{
+    background-color: green;
+ }
+
